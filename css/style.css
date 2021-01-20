@@ -1,0 +1,48 @@
+.container{
+	margin-bottom: 50px;
+}
+
+h1{
+	color: red;
+	text-align: center;
+}
+
+
+.alert-custom{
+    color: #101010;
+    background-color: #33a040;
+    border-color: #ea1546;
+}
+
+.container1{
+	background-color: teal;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+h2{
+	color: yellow;
+	text-align: center;
+}
+
+.btn-custom{
+    color: #131212;
+    background-color: #f71755;
+    border-color: #0ce26bf2;
+    padding: 0 auto;
+}
+
+
+.container2 {
+    background-color: #ced4d4;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.container3{
+  align-items: center;
+}
+
+.dropdown{
+	text-align:center;
+}
